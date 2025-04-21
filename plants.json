@@ -1,0 +1,1767 @@
+{
+    "data" :[
+      {
+  
+      "id": 1,
+      "common_name": "European Silver Fir",
+      "scientific_name": [
+        "Abies alba"
+      ],
+      "other_name": [
+        "Common Silver Fir"
+      ],
+      "family": null,
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "alba",
+      "genus": "Abies",
+      "origin": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "France",
+        "Italy",
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia",
+        "Montenegro",
+        "Albania",
+        "Bulgaria",
+        "Romania",
+        "Ukraine",
+        "Poland",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary"
+      ],
+      "type": "tree",
+      "dimensions": [
+        {
+          "type": "Height",
+          "min_value": 60,
+          "max_value": 60,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Grafting Propagation",
+        "Layering Propagation",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "7"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=1&size=og&key=sk-dRMV67fff37f267189837",
+        "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": null,
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=1&key=sk-dRMV67fff37f267189837",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": false,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": false,
+      "flowering_season": null,
+      "cones": true,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "European Silver Fir (Abies alba) is an amazing coniferous species native to mountainous regions of central Europe and the Balkans. It is an evergreen tree with a narrow, pyramidal shape and long, soft needles. Its bark is scaly grey-brown and its branches are highly ornamental due to its conical-shaped silver-tinged needles. It is pruned for use as an ornamental evergreen hedging and screening plant, and is also popular for use as a Christmas tree. Young trees grow quickly and have strong, flexible branches which makes them perfect for use as windbreaks. The European Silver Fir is an impressive species, making it ideal for gardens and public spaces.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1_abies_alba/og/1536px-Abies_alba_SkalitC3A9.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1_abies_alba/regular/1536px-Abies_alba_SkalitC3A9.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1_abies_alba/medium/1536px-Abies_alba_SkalitC3A9.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1_abies_alba/small/1536px-Abies_alba_SkalitC3A9.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1_abies_alba/thumbnail/1536px-Abies_alba_SkalitC3A9.jpg"
+      }},
+    {
+    "id": 2,
+    "common_name": "Pyramidalis Silver Fir",
+    "scientific_name": [
+      "Abies alba 'Pyramidalis'"
+    ],
+    "other_name": [],
+    "family": null,
+    "hybrid": null,
+    "authority": null,
+    "subspecies": null,
+    "cultivar": "Pyramidalis",
+    "variety": null,
+    "species_epithet": "alba",
+    "genus": "Abies",
+    "origin": [
+      "Austria",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "France",
+      "Slovenia",
+      "Croatia"
+    ],
+    "type": "tree",
+    "dimensions": [
+      {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+      }
+    ],
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+      "Cutting",
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Seed Propagation"
+    ],
+    "hardiness": {
+      "min": "4",
+      "max": "4"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=2&size=og&key=sk-dRMV67fff37f267189837",
+      "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+    },
+    "watering": "Average",
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      {
+        "part": "leaves",
+        "color": [
+          "dark-green"
+        ]
+      },
+      {
+        "part": "branches",
+        "color": [
+          "dark-brown"
+        ]
+      },
+      {
+        "part": "twigs",
+        "color": [
+          "brown"
+        ]
+      }
+    ],
+    "sunlight": [
+      "full sun"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April"
+    ],
+    "pruning_count": [],
+    "seeds": false,
+    "maintenance": null,
+    "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=2&key=sk-dRMV67fff37f267189837",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "flowers": false,
+    "flowering_season": null,
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "harvest_season": null,
+    "leaf": true,
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": false,
+    "poisonous_to_pets": false,
+    "description": "Pyramidalis Silver Fir (Abies alba 'Pyramidalis') is an amazing coniferous tree species. Its narrow, elegant pyramidal shape makes it ideal for landscapes with limited space. This species features bright silver-green foliage year-round and distinctive yellowish brown cones that hold its unique shape for years. It also displays purple-tinged shoots in the spring and a showy red bark in the winter. Its slow growth and hardiness make it an ideal addition to any landscape. The Pyramidalis Silver Fir also requires minimal maintenance and can be an excellent companion for many other plants in the garden. From small yards to large gardens, this species will create a majestic and interesting landscape.",
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/og/49255769768_df55596553_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/regular/49255769768_df55596553_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/medium/49255769768_df55596553_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/small/49255769768_df55596553_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/2_abies_alba_pyramidalis/thumbnail/49255769768_df55596553_b.jpg"
+    }},{
+    "id": 3,
+    "common_name": "White Fir",
+    "scientific_name": [
+      "Abies concolor"
+    ],
+    "other_name": [
+      "Silver Fir",
+      "Concolor Fir",
+      "Colorado Fir"
+    ],
+    "family": "Pinaceae",
+    "hybrid": null,
+    "authority": null,
+    "subspecies": null,
+    "cultivar": null,
+    "variety": null,
+    "species_epithet": "concolor",
+    "genus": "Abies",
+    "origin": [
+      "Western United States",
+      "Mexico"
+    ],
+    "type": "tree",
+    "dimensions": [
+      {
+        "type": "Height",
+        "min_value": 45,
+        "max_value": 45,
+        "unit": "feet"
+      }
+    ],
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+      "Seed Propagation",
+      "Hardwood Cuttings"
+    ],
+    "hardiness": {
+      "min": "3",
+      "max": "3"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=3&size=og&key=sk-dRMV67fff37f267189837",
+      "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=3&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+    },
+    "watering": "Average",
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      {
+        "part": "leaves",
+        "color": [
+          "silver-green",
+          "silvery-green"
+        ]
+      },
+      {
+        "part": "branches",
+        "color": [
+          "silver",
+          "green-brown",
+          "silver-brown"
+        ]
+      },
+      {
+        "part": "needles",
+        "color": [
+          "silvery-green"
+        ]
+      },
+      {
+        "part": "stem",
+        "color": [
+          "brown"
+        ]
+      }
+    ],
+    "sunlight": [
+      "Full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April"
+    ],
+    "pruning_count": [],
+    "seeds": false,
+    "maintenance": "Moderate",
+    "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=3&key=sk-dRMV67fff37f267189837",
+    "soil": [
+      "Acidic",
+      " Rocky ",
+      " gravelly ",
+      " dry",
+      " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+      "Aphids",
+      "adelgids",
+      " Canker",
+      "sap rot",
+      " Dieback",
+      " Root rot",
+      "  Pest resistant",
+      " Disease resistant "
+    ],
+    "flowers": true,
+    "flowering_season": null,
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "harvest_season": null,
+    "leaf": true,
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": false,
+    "poisonous_to_pets": false,
+    "description": "White Fir (Abies concolor) is an amazing evergreen tree species found in the western United States. It has a distinct white bark that fades to a yellowish hue on the lower branches and a graceful, conical shape. The beautiful Blue-green needles of White Fir are soft and tufted at the end and release a pleasant Christmas-like aroma when crushed. This sturdy species can grow up to 300 feet tall and over 140 years old, making it one of the longest living species in the world. It is highly adaptable, drought-tolerant, and very low maintenance with minimal pruning requirements. White Fir is an excellent choice for privacy screens, windbreaks, and living Christmas trees.",
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/3_abies_concolor/og/52292935430_f4f3b22614_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/3_abies_concolor/regular/52292935430_f4f3b22614_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/3_abies_concolor/medium/52292935430_f4f3b22614_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/3_abies_concolor/small/52292935430_f4f3b22614_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/3_abies_concolor/thumbnail/52292935430_f4f3b22614_b.jpg"
+    }},{
+    "id": 4,
+    "common_name": "Candicans White Fir",
+    "scientific_name": [
+      "Abies concolor 'Candicans'"
+    ],
+    "other_name": [
+      "Silver Fir",
+      "Concolor Fir",
+      "Colorado Fir"
+    ],
+    "family": null,
+    "hybrid": null,
+    "authority": null,
+    "subspecies": null,
+    "cultivar": "Candicans",
+    "variety": null,
+    "species_epithet": "concolor",
+    "genus": "Abies",
+    "origin": [
+      "United States"
+    ],
+    "type": "tree",
+    "dimensions": [
+      {
+        "type": "Height",
+        "min_value": 30,
+        "max_value": 30,
+        "unit": "feet"
+      }
+    ],
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+      "Cutting",
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Air Layering Propagation",
+      "Seed Propagation"
+    ],
+    "hardiness": {
+      "min": "4",
+      "max": "4"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=4&size=og&key=sk-dRMV67fff37f267189837",
+      "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=4&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+    },
+    "watering": "Average",
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      {
+        "part": "stems",
+        "color": [
+          "brown"
+        ]
+      },
+      {
+        "part": "branches",
+        "color": [
+          "brown"
+        ]
+      },
+      {
+        "part": "leaves",
+        "color": [
+          "dark-green"
+        ]
+      }
+    ],
+    "sunlight": [
+      "full sun"
+    ],
+    "pruning_month": [
+      "February",
+      "June",
+      "July",
+      "February",
+      "June",
+      "July"
+    ],
+    "pruning_count": {
+      "amount": 2,
+      "interval": "yearly"
+    },
+    "seeds": false,
+    "maintenance": null,
+    "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=4&key=sk-dRMV67fff37f267189837",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "flowers": false,
+    "flowering_season": null,
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "harvest_season": null,
+    "leaf": true,
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": false,
+    "poisonous_to_pets": false,
+    "description": "Candicans White Fir is one of the most amazing species of fir tree. Its vibrant, powdery-white needles make it a real show-stopper in the winter and spring. The light color is also resistant to bronzing or discoloration, so the brilliant hue is maintained for many years. It also has a unique branch structure with a strong central leader and shorter lateral branches creating an eye-catching silhouette. This species is hardy and tolerant to a variety of soil types, making it a great choice for difficult areas. Its fast growth rate creates an impressive display quickly, making it an excellent choice to add curb appeal to your landscape.",
+    "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/og/49283844888_332c9e46f2_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/regular/49283844888_332c9e46f2_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/medium/49283844888_332c9e46f2_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/small/49283844888_332c9e46f2_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/4_abies_concolor_candicans/thumbnail/49283844888_332c9e46f2_b.jpg"
+    }},
+    {
+        "id": 5,
+        "common_name": "Fraser Fir",
+        "scientific_name": [
+          "Abies fraseri"
+        ],
+        "other_name": [
+          "Southern Fir"
+        ],
+        "family": "Pinaceae",
+        "hybrid": null,
+        "authority": null,
+        "subspecies": null,
+        "cultivar": null,
+        "variety": null,
+        "species_epithet": "fraseri",
+        "genus": "Abies",
+        "origin": [
+          "Southeastern United States"
+        ],
+        "type": "tree",
+        "dimensions": [
+          {
+            "type": "Height",
+            "min_value": 35,
+            "max_value": 35,
+            "unit": "feet"
+          }
+        ],
+        "cycle": "Perennial",
+        "attracts": [],
+        "propagation": [
+          "Seed Propagation",
+          "Seed Propagation",
+          "Seed Propagation",
+          "Cutting",
+          "Grafting Propagation",
+          "Layering Propagation",
+          "Tissue Culture"
+        ],
+        "hardiness": {
+          "min": "6",
+          "max": "6"
+        },
+        "hardiness_location": {
+          "full_url": "https://perenual.com/api/hardiness-map?species_id=5&size=og&key=sk-dRMV67fff37f267189837",
+          "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=5&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+        },
+        "watering": "Frequent",
+        "watering_general_benchmark": {
+          "value": null,
+          "unit": "days"
+        },
+        "plant_anatomy": [
+          {
+            "part": "leaves",
+            "color": [
+              "dark-green"
+            ]
+          },
+          {
+            "part": "cones",
+            "color": [
+              "light-green"
+            ]
+          },
+          {
+            "part": "branches",
+            "color": [
+              "silver"
+            ]
+          }
+        ],
+        "sunlight": [
+          "full sun",
+          "part shade",
+          "filtered shade"
+        ],
+        "pruning_month": [
+          "February",
+          "March",
+          "April",
+          "June",
+          "July",
+          "August"
+        ],
+        "pruning_count": [],
+        "seeds": false,
+        "maintenance": "Moderate",
+        "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=5&key=sk-dRMV67fff37f267189837",
+        "soil": [
+          "Well-drained"
+        ],
+        "growth_rate": "Moderate",
+        "drought_tolerant": false,
+        "salt_tolerant": false,
+        "thorny": false,
+        "invasive": false,
+        "tropical": false,
+        "indoor": false,
+        "care_level": "Medium",
+        "pest_susceptibility": [
+          "Aphids",
+          "adelgids",
+          "  Pest resistant",
+          " Disease resistant "
+        ],
+        "flowers": true,
+        "flowering_season": null,
+        "cones": true,
+        "fruits": false,
+        "edible_fruit": false,
+        "harvest_season": null,
+        "leaf": true,
+        "edible_leaf": false,
+        "cuisine": false,
+        "medicinal": false,
+        "poisonous_to_humans": false,
+        "poisonous_to_pets": false,
+        "description": "The Fraser Fir (Abies fraseri) is an amazing tree species with many great qualities. It is a dense evergreen conifer native to the Appalachian mountains. Its pyramidal shape and glossy dark green needles, that curve upward, make it a beautiful and popular Christmas tree. Its needles are short, soft, flat and pleasant to the touch. It has been found to be highly resistant to pests, diseases, and environmental stress. Additionally, it has superior winter hardiness and a strong wood that produces very little sap. This incredible species is perfect for a variety of evergreen applications and is guaranteed to bring a unique and beautiful look to any landscape.",
+        "default_image": {
+          "license": 4,
+          "license_name": "Attribution License",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "original_url": "https://perenual.com/storage/species_image/5_abies_fraseri/og/36843539702_e80fc436e0_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_image/5_abies_fraseri/regular/36843539702_e80fc436e0_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_image/5_abies_fraseri/medium/36843539702_e80fc436e0_b.jpg",
+          "small_url": "https://perenual.com/storage/species_image/5_abies_fraseri/small/36843539702_e80fc436e0_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_image/5_abies_fraseri/thumbnail/36843539702_e80fc436e0_b.jpg"
+        }},{
+            "id": 6,
+            "common_name": "Golden Korean Fir",
+            "scientific_name": [
+              "Abies koreana 'Aurea'"
+            ],
+            "other_name": [],
+            "family": "Pinaceae",
+            "hybrid": null,
+            "authority": null,
+            "subspecies": null,
+            "cultivar": "Aurea",
+            "variety": null,
+            "species_epithet": "koreana",
+            "genus": "Abies",
+            "origin": [
+              "North and South Korea"
+            ],
+            "type": "tree",
+            "dimensions": [
+              {
+                "type": "Height",
+                "min_value": 20,
+                "max_value": 20,
+                "unit": "feet"
+              }
+            ],
+            "cycle": "Perennial",
+            "attracts": [],
+            "propagation": [
+              "Cutting",
+              "Grafting Propagation",
+              "Layering Propagation",
+              "Seed Propagation",
+              "Air Layering Propagation"
+            ],
+            "hardiness": {
+              "min": "6",
+              "max": "6"
+            },
+            "hardiness_location": {
+              "full_url": "https://perenual.com/api/hardiness-map?species_id=6&size=og&key=sk-dRMV67fff37f267189837",
+              "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=6&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+            },
+            "watering": "Average",
+            "watering_general_benchmark": {
+              "value": null,
+              "unit": "days"
+            },
+            "plant_anatomy": [
+              {
+                "part": "trunk",
+                "color": [
+                  "brown"
+                ]
+              },
+              {
+                "part": "branches",
+                "color": [
+                  "brown"
+                ]
+              },
+              {
+                "part": "leaves",
+                "color": [
+                  "green",
+                  "yellow-green",
+                  "silver-yellow-green"
+                ]
+              },
+              {
+                "part": "twigs",
+                "color": [
+                  "silver-brown",
+                  "white-silver"
+                ]
+              },
+              {
+                "part": "cones",
+                "color": [
+                  "violet-purple"
+                ]
+              }
+            ],
+            "sunlight": [
+              "Full sun",
+              "part shade"
+            ],
+            "pruning_month": [
+              "June",
+              "May"
+            ],
+            "pruning_count": [],
+            "seeds": false,
+            "maintenance": "Moderate",
+            "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=6&key=sk-dRMV67fff37f267189837",
+            "soil": [
+              "Well-drained"
+            ],
+            "growth_rate": "Low",
+            "drought_tolerant": false,
+            "salt_tolerant": false,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [
+              "Aphids",
+              "adelgids",
+              " Blight",
+              "needle cast",
+              " Caterpillar",
+              "cutworm",
+              " Root rot",
+              " Rust",
+              "  Pest resistant",
+              " Disease resistant",
+              " Deer resistant",
+              " Drought resistant "
+            ],
+            "flowers": true,
+            "flowering_season": null,
+            "cones": true,
+            "fruits": false,
+            "edible_fruit": false,
+            "harvest_season": null,
+            "leaf": true,
+            "edible_leaf": false,
+            "cuisine": false,
+            "medicinal": false,
+            "poisonous_to_humans": false,
+            "poisonous_to_pets": false,
+            "description": "The Golden Korean Fir is truly awe inspiring. Its stunning golden-green foliage and soft pink cones make it a majestic wonder to behold. This evergreen tree grows quickly and is remarkably tough and resistant to brittleness. Its branches form a distinctive cone shape that gives it a modern, contemporary look. Its needles are soft and full of pleasant aroma. This amazing specimen requires minimal maintenance and is an ideal focal point for landscaping and garden design. Its unique foliage, easy upkeep and attitude of durability make it a stunning and reliable addition to any garden.",
+            "default_image": {
+              "license": 5,
+              "license_name": "Attribution-ShareAlike License",
+              "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+              "original_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/og/49235570926_99ec10781d_b.jpg",
+              "regular_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/regular/49235570926_99ec10781d_b.jpg",
+              "medium_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/medium/49235570926_99ec10781d_b.jpg",
+              "small_url": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/small/49235570926_99ec10781d_b.jpg",
+              "thumbnail": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/thumbnail/49235570926_99ec10781d_b.jpg"
+            }},{
+                "id": 7,
+                "common_name": "Alpine Fir",
+                "scientific_name": [
+                  "Abies lasiocarpa"
+                ],
+                "other_name": [
+                  "Subalpine Fir",
+                  "Rocky Mountain Fir"
+                ],
+                "family": "Pinaceae",
+                "hybrid": null,
+                "authority": null,
+                "subspecies": null,
+                "cultivar": null,
+                "variety": null,
+                "species_epithet": "lasiocarpa",
+                "genus": "Abies",
+                "origin": [
+                  "Canada",
+                  "United States",
+                  "Mexico",
+                  "Guatemala",
+                  "Honduras",
+                  "El Salvador",
+                  "Nicaragua",
+                  "Costa Rica",
+                  "Panama"
+                ],
+                "type": "tree",
+                "dimensions": [
+                  {
+                    "type": "Height",
+                    "min_value": 70,
+                    "max_value": 70,
+                    "unit": "feet"
+                  }
+                ],
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                  "Seed Propagation",
+                  "Cutting",
+                  "Grafting Propagation",
+                  "Layering Propagation",
+                  "Division"
+                ],
+                "hardiness": {
+                  "min": "2",
+                  "max": "2"
+                },
+                "hardiness_location": {
+                  "full_url": "https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dRMV67fff37f267189837",
+                  "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                },
+                "watering": "Average",
+                "watering_general_benchmark": {
+                  "value": null,
+                  "unit": "days"
+                },
+                "plant_anatomy": [
+                  {
+                    "part": "leaves",
+                    "color": [
+                      "green"
+                    ]
+                  },
+                  {
+                    "part": "buds",
+                    "color": [
+                      "brown"
+                    ]
+                  },
+                  {
+                    "part": "twig",
+                    "color": [
+                      "silver-brown"
+                    ]
+                  },
+                  {
+                    "part": "bristles",
+                    "color": [
+                      "green"
+                    ]
+                  },
+                  {
+                    "part": "twigs",
+                    "color": [
+                      "silver-brown",
+                      "brown"
+                    ]
+                  },
+                  {
+                    "part": "needles",
+                    "color": [
+                      "green"
+                    ]
+                  },
+                  {
+                    "part": "trunk",
+                    "color": [
+                      "green-silver",
+                      "dark-brown"
+                    ]
+                  },
+                  {
+                    "part": "branches",
+                    "color": [
+                      "brown"
+                    ]
+                  },
+                  {
+                    "part": "trunks",
+                    "color": [
+                      "light-gray"
+                    ]
+                  }
+                ],
+                "sunlight": [
+                  "full sun",
+                  "part shade"
+                ],
+                "pruning_month": [
+                  "February",
+                  "March",
+                  "April"
+                ],
+                "pruning_count": [],
+                "seeds": false,
+                "maintenance": null,
+                "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=7&key=sk-dRMV67fff37f267189837",
+                "soil": [
+                  "Loamy Rocky"
+                ],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "flowers": true,
+                "flowering_season": null,
+                "cones": true,
+                "fruits": false,
+                "edible_fruit": false,
+                "harvest_season": null,
+                "leaf": true,
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": false,
+                "poisonous_to_pets": false,
+                "description": "The Alpine Fir, scientifically known as Abies lasiocarpa, is an amazing conifer native to western North America. Its stiff, dense needles bring vivid color year-round and its pyramidal growth habit adds texture and interest to any landscape. With its tolerance to a variety of soils and conditions, this evergreen is both versatile and visually striking. Its branches reach out and cast a unique evergreen form of showy clouds. Through years of growth, it develops a sturdy trunk and crooked branches that are quite striking. Alpine Fir also provides winter cover and shelter for wildlife. Its dense needles are an ideal refuge from cold and precipitation. Its strong branches and trunk also provide perching points for nesting birds. Alpine Fir is truly one of nature’s most diverse and visually stunning plants.",
+                "default_image": {
+                  "license": 5,
+                  "license_name": "Attribution-ShareAlike License",
+                  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                  "original_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/og/51002756843_74fae3c2fa_b.jpg",
+                  "regular_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/regular/51002756843_74fae3c2fa_b.jpg",
+                  "medium_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/medium/51002756843_74fae3c2fa_b.jpg",
+                  "small_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/small/51002756843_74fae3c2fa_b.jpg",
+                  "thumbnail": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/thumbnail/51002756843_74fae3c2fa_b.jpg"
+                }},{
+                    "id": 7,
+                    "common_name": "Alpine Fir",
+                    "scientific_name": [
+                      "Abies lasiocarpa"
+                    ],
+                    "other_name": [
+                      "Subalpine Fir",
+                      "Rocky Mountain Fir"
+                    ],
+                    "family": "Pinaceae",
+                    "hybrid": null,
+                    "authority": null,
+                    "subspecies": null,
+                    "cultivar": null,
+                    "variety": null,
+                    "species_epithet": "lasiocarpa",
+                    "genus": "Abies",
+                    "origin": [
+                      "Canada",
+                      "United States",
+                      "Mexico",
+                      "Guatemala",
+                      "Honduras",
+                      "El Salvador",
+                      "Nicaragua",
+                      "Costa Rica",
+                      "Panama"
+                    ],
+                    "type": "tree",
+                    "dimensions": [
+                      {
+                        "type": "Height",
+                        "min_value": 70,
+                        "max_value": 70,
+                        "unit": "feet"
+                      }
+                    ],
+                    "cycle": "Perennial",
+                    "attracts": [],
+                    "propagation": [
+                      "Seed Propagation",
+                      "Cutting",
+                      "Grafting Propagation",
+                      "Layering Propagation",
+                      "Division"
+                    ],
+                    "hardiness": {
+                      "min": "2",
+                      "max": "2"
+                    },
+                    "hardiness_location": {
+                      "full_url": "https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dRMV67fff37f267189837",
+                      "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                    },
+                    "watering": "Average",
+                    "watering_general_benchmark": {
+                      "value": null,
+                      "unit": "days"
+                    },
+                    "plant_anatomy": [
+                      {
+                        "part": "leaves",
+                        "color": [
+                          "green"
+                        ]
+                      },
+                      {
+                        "part": "buds",
+                        "color": [
+                          "brown"
+                        ]
+                      },
+                      {
+                        "part": "twig",
+                        "color": [
+                          "silver-brown"
+                        ]
+                      },
+                      {
+                        "part": "bristles",
+                        "color": [
+                          "green"
+                        ]
+                      },
+                      {
+                        "part": "twigs",
+                        "color": [
+                          "silver-brown",
+                          "brown"
+                        ]
+                      },
+                      {
+                        "part": "needles",
+                        "color": [
+                          "green"
+                        ]
+                      },
+                      {
+                        "part": "trunk",
+                        "color": [
+                          "green-silver",
+                          "dark-brown"
+                        ]
+                      },
+                      {
+                        "part": "branches",
+                        "color": [
+                          "brown"
+                        ]
+                      },
+                      {
+                        "part": "trunks",
+                        "color": [
+                          "light-gray"
+                        ]
+                      }
+                    ],
+                    "sunlight": [
+                      "full sun",
+                      "part shade"
+                    ],
+                    "pruning_month": [
+                      "February",
+                      "March",
+                      "April"
+                    ],
+                    "pruning_count": [],
+                    "seeds": false,
+                    "maintenance": null,
+                    "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=7&key=sk-dRMV67fff37f267189837",
+                    "soil": [
+                      "Loamy Rocky"
+                    ],
+                    "growth_rate": "Low",
+                    "drought_tolerant": false,
+                    "salt_tolerant": false,
+                    "thorny": false,
+                    "invasive": false,
+                    "tropical": false,
+                    "indoor": false,
+                    "care_level": "Medium",
+                    "pest_susceptibility": [],
+                    "flowers": true,
+                    "flowering_season": null,
+                    "cones": true,
+                    "fruits": false,
+                    "edible_fruit": false,
+                    "harvest_season": null,
+                    "leaf": true,
+                    "edible_leaf": false,
+                    "cuisine": false,
+                    "medicinal": false,
+                    "poisonous_to_humans": false,
+                    "poisonous_to_pets": false,
+                    "description": "The Alpine Fir, scientifically known as Abies lasiocarpa, is an amazing conifer native to western North America. Its stiff, dense needles bring vivid color year-round and its pyramidal growth habit adds texture and interest to any landscape. With its tolerance to a variety of soils and conditions, this evergreen is both versatile and visually striking. Its branches reach out and cast a unique evergreen form of showy clouds. Through years of growth, it develops a sturdy trunk and crooked branches that are quite striking. Alpine Fir also provides winter cover and shelter for wildlife. Its dense needles are an ideal refuge from cold and precipitation. Its strong branches and trunk also provide perching points for nesting birds. Alpine Fir is truly one of nature’s most diverse and visually stunning plants.",
+                    "default_image": {
+                      "license": 5,
+                      "license_name": "Attribution-ShareAlike License",
+                      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                      "original_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/og/51002756843_74fae3c2fa_b.jpg",
+                      "regular_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/regular/51002756843_74fae3c2fa_b.jpg",
+                      "medium_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/medium/51002756843_74fae3c2fa_b.jpg",
+                      "small_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/small/51002756843_74fae3c2fa_b.jpg",
+                      "thumbnail": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/thumbnail/51002756843_74fae3c2fa_b.jpg"
+                    }},{
+                        "id": 8,
+                        "common_name": "Blue Spanish Fir",
+                        "scientific_name": [
+                          "Abies pinsapo 'Glauca'"
+                        ],
+                        "other_name": [
+                          "Glaucous Spanish Fir"
+                        ],
+                        "family": "Pinaceae",
+                        "hybrid": null,
+                        "authority": null,
+                        "subspecies": null,
+                        "cultivar": "Glauca",
+                        "variety": null,
+                        "species_epithet": "pinsapo",
+                        "genus": "Abies",
+                        "origin": [
+                          "Southern Spain"
+                        ],
+                        "type": "tree",
+                        "dimensions": [
+                          {
+                            "type": "Height",
+                            "min_value": 45,
+                            "max_value": 45,
+                            "unit": "feet"
+                          }
+                        ],
+                        "cycle": "Perennial",
+                        "attracts": [],
+                        "propagation": [
+                          "Cutting",
+                          "Grafting Propagation",
+                          "Layering Propagation",
+                          "Seed Propagation"
+                        ],
+                        "hardiness": {
+                          "min": "7",
+                          "max": "7"
+                        },
+                        "hardiness_location": {
+                          "full_url": "https://perenual.com/api/hardiness-map?species_id=8&size=og&key=sk-dRMV67fff37f267189837",
+                          "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=8&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                        },
+                        "watering": "Average",
+                        "watering_general_benchmark": {
+                          "value": null,
+                          "unit": "days"
+                        },
+                        "plant_anatomy": [
+                          {
+                            "part": "cones",
+                            "color": [
+                              "green",
+                              "light-green"
+                            ]
+                          },
+                          {
+                            "part": "leaves",
+                            "color": [
+                              "dark-green"
+                            ]
+                          },
+                          {
+                            "part": "stems",
+                            "color": [
+                              "brown"
+                            ]
+                          },
+                          {
+                            "part": "branches",
+                            "color": [
+                              "brown"
+                            ]
+                          },
+                          {
+                            "part": "twigs",
+                            "color": [
+                              "brown"
+                            ]
+                          }
+                        ],
+                        "sunlight": [
+                          "Full sun",
+                          "part shade"
+                        ],
+                        "pruning_month": [
+                          "March",
+                          "April",
+                          "June",
+                          "July",
+                          "August",
+                          "March",
+                          "April",
+                          "May",
+                          "June",
+                          "July",
+                          "August"
+                        ],
+                        "pruning_count": {
+                          "amount": 2,
+                          "interval": "yearly"
+                        },
+                        "seeds": false,
+                        "maintenance": "Moderate",
+                        "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=8&key=sk-dRMV67fff37f267189837",
+                        "soil": [],
+                        "growth_rate": "Low",
+                        "drought_tolerant": true,
+                        "salt_tolerant": true,
+                        "thorny": false,
+                        "invasive": false,
+                        "tropical": false,
+                        "indoor": false,
+                        "care_level": "Medium",
+                        "pest_susceptibility": [],
+                        "flowers": true,
+                        "flowering_season": null,
+                        "cones": true,
+                        "fruits": false,
+                        "edible_fruit": false,
+                        "harvest_season": null,
+                        "leaf": true,
+                        "edible_leaf": false,
+                        "cuisine": false,
+                        "medicinal": false,
+                        "poisonous_to_humans": false,
+                        "poisonous_to_pets": false,
+                        "description": "The Blue Spanish Fir (Abies pinsapo 'Glauca') is an amazing plant that is native to the mountains of southern Spain. Its beautiful blue needle-like foliage and pyramidal shape set it apart from other coniferous trees. This tree is an extremely hardy species, and can survive temperatures as low as -20 Fahrenheit. It is also incredibly drought tolerant, but will thrive with regular watering in the summer. Its striking blue color makes it the perfect accent to any landscaping design, adding a pop of color to your garden. It is also surprisingly fast-growing, making it ideal for creating a privacy screen quickly. All in all, the Blue Spanish Fir is an amazing plant that can bring year-round beauty to any garden!",
+                        "default_image": {
+                          "license": 4,
+                          "license_name": "Attribution License",
+                          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                          "original_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/og/21657514018_c0d9fed9f4_b.jpg",
+                          "regular_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/regular/21657514018_c0d9fed9f4_b.jpg",
+                          "medium_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/medium/21657514018_c0d9fed9f4_b.jpg",
+                          "small_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/small/21657514018_c0d9fed9f4_b.jpg",
+                          "thumbnail": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/thumbnail/21657514018_c0d9fed9f4_b.jpg"
+                        }},{
+                            "id": 9,
+                            "common_name": "Noble Fir",
+                            "scientific_name": [
+                              "Abies procera"
+                            ],
+                            "other_name": [
+                              "Red Fir",
+                              "White Fir"
+                            ],
+                            "family": "Pinaceae",
+                            "hybrid": null,
+                            "authority": null,
+                            "subspecies": null,
+                            "cultivar": null,
+                            "variety": null,
+                            "species_epithet": "procera",
+                            "genus": "Abies",
+                            "origin": [
+                              "United States",
+                              "Canada",
+                              "Mexico",
+                              "Central America",
+                              "South America"
+                            ],
+                            "type": "tree",
+                            "dimensions": [
+                              {
+                                "type": "Height",
+                                "min_value": 90,
+                                "max_value": 90,
+                                "unit": "feet"
+                              }
+                            ],
+                            "cycle": "Perennial",
+                            "attracts": [
+                              "Squirrels",
+                              " Birds"
+                            ],
+                            "propagation": [
+                              "Seed Propagation",
+                              "Cutting",
+                              "Grafting Propagation",
+                              "Layering Propagation",
+                              "Air Layering Propagation"
+                            ],
+                            "hardiness": {
+                              "min": "8",
+                              "max": "8"
+                            },
+                            "hardiness_location": {
+                              "full_url": "https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-dRMV67fff37f267189837",
+                              "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                            },
+                            "watering": "Average",
+                            "watering_general_benchmark": {
+                              "value": null,
+                              "unit": "days"
+                            },
+                            "plant_anatomy": [
+                              {
+                                "part": "trunk",
+                                "color": [
+                                  "brown",
+                                  "light-brown",
+                                  "white-brown"
+                                ]
+                              },
+                              {
+                                "part": "leaves",
+                                "color": [
+                                  "dark-green",
+                                  "green"
+                                ]
+                              },
+                              {
+                                "part": "branches",
+                                "color": [
+                                  "brown"
+                                ]
+                              },
+                              {
+                                "part": "branch",
+                                "color": [
+                                  "brown"
+                                ]
+                              }
+                            ],
+                            "sunlight": [
+                              "full sun"
+                            ],
+                            "pruning_month": [
+                              "February",
+                              "March",
+                              "April"
+                            ],
+                            "pruning_count": [],
+                            "seeds": false,
+                            "maintenance": null,
+                            "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=9&key=sk-dRMV67fff37f267189837",
+                            "soil": [
+                              "Loamy Rocky"
+                            ],
+                            "growth_rate": "Low",
+                            "drought_tolerant": false,
+                            "salt_tolerant": false,
+                            "thorny": false,
+                            "invasive": false,
+                            "tropical": false,
+                            "indoor": false,
+                            "care_level": "Medium",
+                            "pest_susceptibility": [],
+                            "flowers": true,
+                            "flowering_season": null,
+                            "cones": true,
+                            "fruits": false,
+                            "edible_fruit": false,
+                            "harvest_season": null,
+                            "leaf": true,
+                            "edible_leaf": false,
+                            "cuisine": false,
+                            "medicinal": true,
+                            "poisonous_to_humans": false,
+                            "poisonous_to_pets": false,
+                            "description": "The Noble Fir (Abies procera) is an amazing species in many ways. It is a tall and stately tree with a beautiful, conical shape; its symmetrical branches are heavily laden with needles that range from a deep, glossy green to a deep blue-green. It has a thick, scaly bark and splendid foliage that make it an ideal choice for any garden. Its wide, dense growth provides shelter to wildlife, while its strong branches provide it with excellent resistance to windstorms. The Noble Fir is a long-lasting species with impressive longevity, making it a great addition to any landscape. With its majestic form, lush color, and great strength, the Noble Fir is a remarkable species that will enhance any outdoor space.",
+                            "default_image": {
+                              "license": 5,
+                              "license_name": "Attribution-ShareAlike License",
+                              "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                              "original_url": "https://perenual.com/storage/species_image/9_abies_procera/og/49107504112_6bd7effb8b_b.jpg",
+                              "regular_url": "https://perenual.com/storage/species_image/9_abies_procera/regular/49107504112_6bd7effb8b_b.jpg",
+                              "medium_url": "https://perenual.com/storage/species_image/9_abies_procera/medium/49107504112_6bd7effb8b_b.jpg",
+                              "small_url": "https://perenual.com/storage/species_image/9_abies_procera/small/49107504112_6bd7effb8b_b.jpg",
+                              "thumbnail": "https://perenual.com/storage/species_image/9_abies_procera/thumbnail/49107504112_6bd7effb8b_b.jpg"
+                            }},{
+                                "id": 10,
+                                "common_name": "Johin Japanese Maple",
+                                "scientific_name": [
+                                  "Acer 'Johin'"
+                                ],
+                                "other_name": [
+                                  "Red Full Moon Maple"
+                                ],
+                                "family": null,
+                                "hybrid": null,
+                                "authority": null,
+                                "subspecies": null,
+                                "cultivar": "Johin",
+                                "variety": null,
+                                "species_epithet": "'Johin'",
+                                "genus": "Acer",
+                                "origin": [
+                                  "Japan"
+                                ],
+                                "type": "tree",
+                                "dimensions": [
+                                  {
+                                    "type": "Height",
+                                    "min_value": 25,
+                                    "max_value": 25,
+                                    "unit": "feet"
+                                  }
+                                ],
+                                "cycle": "Perennial",
+                                "attracts": [],
+                                "propagation": [
+                                  "Air Layering Propagation",
+                                  "Grafting Propagation",
+                                  "Cutting",
+                                  "Division",
+                                  "Seed Propagation"
+                                ],
+                                "hardiness": {
+                                  "min": "6",
+                                  "max": "6"
+                                },
+                                "hardiness_location": {
+                                  "full_url": "https://perenual.com/api/hardiness-map?species_id=10&size=og&key=sk-dRMV67fff37f267189837",
+                                  "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=10&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                                },
+                                "watering": "Average",
+                                "watering_general_benchmark": {
+                                  "value": null,
+                                  "unit": "days"
+                                },
+                                "plant_anatomy": [
+                                  {
+                                    "part": "leaves",
+                                    "color": [
+                                      "bright-red"
+                                    ]
+                                  },
+                                  {
+                                    "part": "veins",
+                                    "color": [
+                                      "yellow"
+                                    ]
+                                  },
+                                  {
+                                    "part": "stems",
+                                    "color": [
+                                      "red"
+                                    ]
+                                  }
+                                ],
+                                "sunlight": [
+                                  "full sun",
+                                  "part shade"
+                                ],
+                                "pruning_month": [
+                                  "March",
+                                  "April"
+                                ],
+                                "pruning_count": [],
+                                "seeds": false,
+                                "maintenance": null,
+                                "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=10&key=sk-dRMV67fff37f267189837",
+                                "soil": [],
+                                "growth_rate": "Low",
+                                "drought_tolerant": false,
+                                "salt_tolerant": false,
+                                "thorny": false,
+                                "invasive": false,
+                                "tropical": false,
+                                "indoor": false,
+                                "care_level": "Medium",
+                                "pest_susceptibility": [],
+                                "flowers": false,
+                                "flowering_season": null,
+                                "cones": false,
+                                "fruits": false,
+                                "edible_fruit": false,
+                                "harvest_season": null,
+                                "leaf": true,
+                                "edible_leaf": false,
+                                "cuisine": false,
+                                "medicinal": false,
+                                "poisonous_to_humans": false,
+                                "poisonous_to_pets": false,
+                                "description": "The Johin Japanese Maple (Acer 'Johin') is a one-of-a-kind variety with incredible foliage that's sure to turn heads. It stands out from the crowd with its bright yellow-green colored leaves, framed by a deep green margin. Mature trees usually have a beautiful, gnarled trunk, making it an ideal choice for bonsai enthusiasts. In the spring, its delicate white flowers add an extra layer of beauty, before the dramatic autumn hues of red, yellow and orange set in. It's an easy-to-care-for, slow-growing tree that becomes even more stunning with age. Perfect for home gardens, patio or courtyard spaces, it's no wonder the Johin Japanese Maple is so popular.",
+                                "default_image": {
+                                  "license": 451,
+                                  "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                                  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                                  "original_url": "https://perenual.com/storage/species_image/10_acer_johin/og/pexels-photo-2183508.jpg",
+                                  "regular_url": "https://perenual.com/storage/species_image/10_acer_johin/regular/pexels-photo-2183508.jpg",
+                                  "medium_url": "https://perenual.com/storage/species_image/10_acer_johin/medium/pexels-photo-2183508.jpg",
+                                  "small_url": "https://perenual.com/storage/species_image/10_acer_johin/small/pexels-photo-2183508.jpg",
+                                  "thumbnail": "https://perenual.com/storage/species_image/10_acer_johin/thumbnail/pexels-photo-2183508.jpg"
+                                }},{
+                                    "id": 11,
+                                    "common_name": "Snakebark Maple",
+                                    "scientific_name": [
+                                      "Acer davidii"
+                                    ],
+                                    "other_name": [
+                                      "Father David's Maple",
+                                      "Pere David's Maple"
+                                    ],
+                                    "family": "Sapindaceae",
+                                    "hybrid": null,
+                                    "authority": null,
+                                    "subspecies": null,
+                                    "cultivar": null,
+                                    "variety": null,
+                                    "species_epithet": "davidii",
+                                    "genus": "Acer",
+                                    "origin": [
+                                      "China",
+                                      "Myanmar"
+                                    ],
+                                    "type": "tree",
+                                    "dimensions": [
+                                      {
+                                        "type": "Height",
+                                        "min_value": 25,
+                                        "max_value": 25,
+                                        "unit": "feet"
+                                      }
+                                    ],
+                                    "cycle": "Perennial",
+                                    "attracts": [],
+                                    "propagation": [
+                                      "Grafting Propagation",
+                                      "Layering Propagation",
+                                      "Cutting",
+                                      "Seed Propagation"
+                                    ],
+                                    "hardiness": {
+                                      "min": "6",
+                                      "max": "6"
+                                    },
+                                    "hardiness_location": {
+                                      "full_url": "https://perenual.com/api/hardiness-map?species_id=11&size=og&key=sk-dRMV67fff37f267189837",
+                                      "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=11&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                                    },
+                                    "watering": "Average",
+                                    "watering_general_benchmark": {
+                                      "value": null,
+                                      "unit": "days"
+                                    },
+                                    "plant_anatomy": [
+                                      {
+                                        "part": "leaves",
+                                        "color": [
+                                          "yellow-brown",
+                                          "green"
+                                        ]
+                                      },
+                                      {
+                                        "part": "branches",
+                                        "color": [
+                                          "green-brown",
+                                          "light-green",
+                                          "green"
+                                        ]
+                                      },
+                                      {
+                                        "part": "trunk",
+                                        "color": [
+                                          "green-brown",
+                                          "white-green"
+                                        ]
+                                      },
+                                      {
+                                        "part": "stem",
+                                        "color": [
+                                          "green-colored"
+                                        ]
+                                      },
+                                      {
+                                        "part": "veins",
+                                        "color": [
+                                          "light-green"
+                                        ]
+                                      }
+                                    ],
+                                    "sunlight": [
+                                      "Full sun",
+                                      "part shade"
+                                    ],
+                                    "pruning_month": [
+                                      "March",
+                                      "April"
+                                    ],
+                                    "pruning_count": [],
+                                    "seeds": false,
+                                    "maintenance": "Low",
+                                    "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=11&key=sk-dRMV67fff37f267189837",
+                                    "soil": [],
+                                    "growth_rate": "Low",
+                                    "drought_tolerant": true,
+                                    "salt_tolerant": false,
+                                    "thorny": false,
+                                    "invasive": true,
+                                    "tropical": false,
+                                    "indoor": false,
+                                    "care_level": "Medium",
+                                    "pest_susceptibility": [],
+                                    "flowers": true,
+                                    "flowering_season": "Spring",
+                                    "cones": false,
+                                    "fruits": false,
+                                    "edible_fruit": false,
+                                    "harvest_season": null,
+                                    "leaf": true,
+                                    "edible_leaf": false,
+                                    "cuisine": false,
+                                    "medicinal": true,
+                                    "poisonous_to_humans": false,
+                                    "poisonous_to_pets": false,
+                                    "description": "The Snakebark Maple (Acer davidii) is an amazing tree, beloved by gardeners. It features beautiful gills, which are handsomely striped with tiger-like markings. In the summer, its leaves turn to a bright golden hue and its bark remains smooth, with a distinctive mottled ash-gray coloration. Plant it in a sunny spot to take full advantage of its leaves, which are said to produce a calming effect. It is also low maintenance and very tolerant of the cold, surviving through temperatures as low as -25°F. With its stunning shape and amazing color, the Snakebark Maple is a wonderful addition to any landscape!",
+                                    "default_image": {
+                                      "license": 5,
+                                      "license_name": "Attribution-ShareAlike License",
+                                      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                                      "original_url": "https://perenual.com/storage/species_image/11_acer_davidii/og/6868591754_f4ac5b0510_b.jpg",
+                                      "regular_url": "https://perenual.com/storage/species_image/11_acer_davidii/regular/6868591754_f4ac5b0510_b.jpg",
+                                      "medium_url": "https://perenual.com/storage/species_image/11_acer_davidii/medium/6868591754_f4ac5b0510_b.jpg",
+                                      "small_url": "https://perenual.com/storage/species_image/11_acer_davidii/small/6868591754_f4ac5b0510_b.jpg",
+                                      "thumbnail": "https://perenual.com/storage/species_image/11_acer_davidii/thumbnail/6868591754_f4ac5b0510_b.jpg"
+                                    }},{
+                                        "id": 12,
+                                        "common_name": "Amur Maple",
+                                        "scientific_name": [
+                                          "Acer ginnala"
+                                        ],
+                                        "other_name": [],
+                                        "family": null,
+                                        "hybrid": null,
+                                        "authority": null,
+                                        "subspecies": null,
+                                        "cultivar": null,
+                                        "variety": null,
+                                        "species_epithet": "ginnala",
+                                        "genus": "Acer",
+                                        "origin": [
+                                          "China",
+                                          "North Korea",
+                                          "Russia",
+                                          "Mongolia"
+                                        ],
+                                        "type": "tree",
+                                        "dimensions": [
+                                          {
+                                            "type": "Height",
+                                            "min_value": 20,
+                                            "max_value": 20,
+                                            "unit": "feet"
+                                          }
+                                        ],
+                                        "cycle": "Perennial",
+                                        "attracts": [],
+                                        "propagation": [
+                                          "Cutting",
+                                          "Grafting Propagation",
+                                          "Layering Propagation",
+                                          "Air Layering Propagation",
+                                          "Seed Propagation"
+                                        ],
+                                        "hardiness": {
+                                          "min": "2",
+                                          "max": "2"
+                                        },
+                                        "hardiness_location": {
+                                          "full_url": "https://perenual.com/api/hardiness-map?species_id=12&size=og&key=sk-dRMV67fff37f267189837",
+                                          "full_iframe": "\u003Ciframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=12&size=og&key=sk-dRMV67fff37f267189837'\u003E\u003C/iframe\u003E"
+                                        },
+                                        "watering": "Average",
+                                        "watering_general_benchmark": {
+                                          "value": null,
+                                          "unit": "days"
+                                        },
+                                        "plant_anatomy": [
+                                          {
+                                            "part": "leaves",
+                                            "color": [
+                                              "orange-pink",
+                                              "green"
+                                            ]
+                                          },
+                                          {
+                                            "part": "veins",
+                                            "color": [
+                                              "red",
+                                              "yellow"
+                                            ]
+                                          },
+                                          {
+                                            "part": "twigs",
+                                            "color": [
+                                              "dark-red",
+                                              "green"
+                                            ]
+                                          },
+                                          {
+                                            "part": "trunk",
+                                            "color": [
+                                              "silver"
+                                            ]
+                                          },
+                                          {
+                                            "part": "branches",
+                                            "color": [
+                                              "silver"
+                                            ]
+                                          },
+                                          {
+                                            "part": "seeds",
+                                            "color": [
+                                              "pink"
+                                            ]
+                                          }
+                                        ],
+                                        "sunlight": [
+                                          "full sun",
+                                          "part shade"
+                                        ],
+                                        "pruning_month": [
+                                          "February",
+                                          "February",
+                                          "March"
+                                        ],
+                                        "pruning_count": [],
+                                        "seeds": false,
+                                        "maintenance": null,
+                                        "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=12&key=sk-dRMV67fff37f267189837",
+                                        "soil": [],
+                                        "growth_rate": "Low",
+                                        "drought_tolerant": true,
+                                        "salt_tolerant": false,
+                                        "thorny": false,
+                                        "invasive": true,
+                                        "tropical": false,
+                                        "indoor": false,
+                                        "care_level": "Moderate",
+                                        "pest_susceptibility": [],
+                                        "flowers": false,
+                                        "flowering_season": null,
+                                        "cones": false,
+                                        "fruits": false,
+                                        "edible_fruit": false,
+                                        "harvest_season": null,
+                                        "leaf": true,
+                                        "edible_leaf": false,
+                                        "cuisine": false,
+                                        "medicinal": false,
+                                        "poisonous_to_humans": false,
+                                        "poisonous_to_pets": false,
+                                        "description": "The Amur Maple is a beautiful and versatile species of tree that are perfect for any property. With its vibrant green buds and star-shaped leaves that turn yellow and orange in the autumn, this stunning tree makes for a spectacular backdrop in any yard or garden. Its dense growth provides ample shade and its smaller size means it won't take up too much space. The Amur Maple is also highly resilient, resistant to extreme temperatures and insect diseases and does well in most soils. This hardy and majestic tree will bring years of beauty to your lawn and garden.",
+                                        "default_image": {
+                                          "license": 5,
+                                          "license_name": "Attribution-ShareAlike License",
+                                          "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                                          "original_url": "https://perenual.com/storage/species_image/12_acer_ginnala/og/10476032513_76ca899bc4_b.jpg",
+                                          "regular_url": "https://perenual.com/storage/species_image/12_acer_ginnala/regular/10476032513_76ca899bc4_b.jpg",
+                                          "medium_url": "https://perenual.com/storage/species_image/12_acer_ginnala/medium/10476032513_76ca899bc4_b.jpg",
+                                          "small_url": "https://perenual.com/storage/species_image/12_acer_ginnala/small/10476032513_76ca899bc4_b.jpg",
+                                          "thumbnail": "https://perenual.com/storage/species_image/12_acer_ginnala/thumbnail/10476032513_76ca899bc4_b.jpg"
+                                        }}
+                                       
+                       
+
+      ]}
+    
+  
